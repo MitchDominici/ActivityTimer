@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkSKPaAk0d8PcyfZyHLlXipbfQitbVM/XsGrzrd4P0adXbHB79twVw7sCSwPZIKWDNgd3Xnt5Gsjk7PyY+8ptA==",
+  "success": true,
+  "projectFilePath": "C:\\Coding_Projects\\iOS\\Timer\\Timer\\Timer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mitch\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

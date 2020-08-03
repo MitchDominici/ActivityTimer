@@ -1,0 +1,13 @@
+C:\Coding_Projects\iOS\Timer\Timer\bin\iPhone\Release\Timer.exe
+C:\Coding_Projects\iOS\Timer\Timer\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Coding_Projects\iOS\Timer\Timer\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\optimized\
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\Timer.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\Timer.csproj.CopyComplete
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\Timer.exe
+C:\Coding_Projects\iOS\Timer\Timer\obj\iPhone\Release\Timer.csprojAssemblyReference.cache
